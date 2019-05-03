@@ -1,1 +1,1 @@
-# assessment
+Implemetation of merge sort algorithm.
